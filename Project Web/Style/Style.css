@@ -1,0 +1,47 @@
+header   {
+    
+    background-image: url(../Images/Project%20Logo.png);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:200px;
+    color:limegreen;
+    border:1px solid blue;
+    }
+#content{
+    
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid grey ;
+}
+body
+{
+    background-color: white;
+    font: 
+   
+    
+}
+footer
+{
+ clear: both;
+    border: 1px solid orange;
+    padding:0;
+    margin:0;
+    position:relative;
+    bottom:0px;
+    width:100%;
+    background-color:grey;
+    
+    text-align: center;
+}
+nav
+{
+    background-color: grey;
+    padding: 5px;
+}
+
+nav ul
+{
+    text-align: center;
+    background-color:grey;
+}
